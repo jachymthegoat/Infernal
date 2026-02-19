@@ -11,7 +11,7 @@ Hra vznikla během tří dnů v rámci soutěže Ludum Dare, kde jsme si vyzkou�
 ## Technologie
 Celá hra je vytvořena v Pythonu s využitím knihovny Pygame
 
-Veškerou grafiku jsme si kreslili sami
+Veškerou grafiku jsme si kreslili sami.
 
 ## Téma soutěže
 Depths (Hloubky)
