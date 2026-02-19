@@ -14,7 +14,7 @@ Celá hra je vytvořena v Pythonu s využitím knihovny Pygame
 Veškerou grafiku jsme si kreslili sami
 
 ## Téma soutěže
-Depths (Hloubky) 
+Depths (Hloubky)
 
 ## Hlavní myšlenka
 Hráč se ujímá role malého čertíka, který se snaží probojovat temnou jeskyní stále hlouběji do podzemí.
